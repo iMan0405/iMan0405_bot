@@ -1,0 +1,1 @@
+worker: python iMan0405_bot.py
